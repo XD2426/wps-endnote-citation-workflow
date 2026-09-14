@@ -1,0 +1,4 @@
+interface:
+  display_name: "WPS EndNote Citation Workflow"
+  short_description: "Audit and manage EndNote citations in WPS DOCX files"
+  default_prompt: "Use $wps-endnote-citation-workflow to inspect and validate EndNote citations in this WPS DOCX."
